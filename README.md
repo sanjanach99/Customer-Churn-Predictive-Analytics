@@ -1,16 +1,16 @@
-# Customer Churn Analysis & Prediction
+# 📊 Customer Churn Predictive Analytics
 
-End-to-end Telecom Churn Analysis & Prediction project using SQL, Python, Machine Learning, and Power BI.
+### Interactive Customer Retention Intelligence Dashboard
 
-## 📸 Dashboard Preview
+<p align="center">
 
-### Summary Dashboard
+![Power BI](https://img.shields.io/badge/POWER_BI-DASHBOARD-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/PYTHON-ANALYSIS-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-DATABASE-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/MACHINE_LEARNING-PREDICTION-orange?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/DATA_ANALYTICS-PORTFOLIO-success?style=for-the-badge)
 
-![Summary Dashboard](Dashboard/Summary-Preview.png)
-
-### Prediction Dashboard
-
-![Prediction Dashboard](Dashboard/Prediction-Preview.png)
+</p>
 
 ---
 
