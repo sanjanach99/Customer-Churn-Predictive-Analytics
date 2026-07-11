@@ -1,4 +1,4 @@
-# Telecom Churn Analysis & Prediction
+# Customer Churn Analysis & Prediction
 
 End-to-end Telecom Churn Analysis & Prediction project using SQL, Python, Machine Learning, and Power BI.
 
