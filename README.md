@@ -182,8 +182,8 @@ Telecom-Churn-Analysis/
 
 ## 👨‍💻 Author
 
-**Subhanu Dhar**
+**Ch Sanjana**
 
-Aspiring Data Analyst | Machine Learning Enthusiast | Full-Stack Developer
+Aspiring Data Analyst | Machine Learning 
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
