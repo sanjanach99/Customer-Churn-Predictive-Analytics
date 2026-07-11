@@ -160,12 +160,12 @@ Created an interactive Power BI dashboard containing:
 
 ---
 ```text
-Telecom-Churn-Analysis/
+customer-Churn-Analysis/
 │
 ├── Dashboard/
 │   ├── Summary-Preview.png
 │   ├── Prediction-Preview.png
-│   └── Telecom_Churn.pbix
+│   └── customer_Churn.pbix
 │
 ├── Dataset/
 │
@@ -174,7 +174,7 @@ Telecom-Churn-Analysis/
 ├── Notebook/
 │
 ├── Report/
-│   └── Telecom-Customer-Churn-Analysis.pptx
+│   └── Customer-Churn-Analysis.pptx
 │
 ├── SQL/
 │
