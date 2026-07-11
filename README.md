@@ -21,6 +21,17 @@ Customer churn is one of the biggest challenges faced by telecom companies. This
 The project combines data analysis, machine learning, and business intelligence to provide actionable insights for improving customer retention.
 
 ---
+## 📸 Dashboard Preview
+
+### Summary Dashboard
+
+![Summary Dashboard](Dashboard/Summary-Preview.png)
+
+### Prediction Dashboard
+
+![Prediction Dashboard](Dashboard/Prediction-Preview.png)
+
+---
 
 ## 🎯 Objectives
 
